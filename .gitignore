@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+*.env
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Log files
+*.log
+stderr.log
+
+# IDE/editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MacOS / Windows junk
+.DS_Store
+Thumbs.db
+
+# Test results
+*.pytest_cache
+.coverage
+htmlcov/
+coverage.xml
+
+# Node stuff (if any frontend)
+node_modules/
+
+# Passenger/cPanel junk (optional, keep if ne
